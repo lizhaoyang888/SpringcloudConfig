@@ -6,4 +6,4 @@ spring:
     password: root
     driver-class-name: com.mysql.cj.jdbc.Driver
 
-source: dev
+test: hello dev
