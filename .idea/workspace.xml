@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34113f8d-70cd-4e08-9bef-2c36c2981401" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="34113f8d-70cd-4e08-9bef-2c36c2981401" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +14,7 @@
         <entry file="file://$PROJECT_DIR$/respo/student.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+              <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -88,10 +86,10 @@
         <option value="$PROJECT_DIR$/respo/student-prod.yml" />
         <option value="$PROJECT_DIR$/respo/student-test.yml" />
         <option value="$PROJECT_DIR$/respo/course.yml" />
-        <option value="$PROJECT_DIR$/respo/student.yml" />
         <option value="$PROJECT_DIR$/respo/teacher.yml" />
         <option value="$PROJECT_DIR$/respo/student-dev.yml" />
         <option value="$PROJECT_DIR$/respo/teacher-dev.yml" />
+        <option value="$PROJECT_DIR$/respo/student.yml" />
       </list>
     </option>
   </component>
@@ -178,12 +176,12 @@
       <workItem from="1551876477955" duration="1217000" />
       <workItem from="1551957803399" duration="580000" />
       <workItem from="1551964731223" duration="2935000" />
-      <workItem from="1553239692133" duration="296000" />
+      <workItem from="1553239692133" duration="951000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19286000" />
+    <option name="totallyTimeSpent" value="19941000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -285,7 +283,7 @@
     <entry file="file://$PROJECT_DIR$/respo/student.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
         </state>
       </provider>
     </entry>
